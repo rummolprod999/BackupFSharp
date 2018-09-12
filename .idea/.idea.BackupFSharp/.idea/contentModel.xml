@@ -8,6 +8,7 @@
     <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_BackupFSharp.1249771038.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p=".git/info/exclude" t="IncludeRecursive" />
+      <e p="Backup.fsx" t="Include" />
       <e p="BackupFSharp.sln" t="IncludeFlat" />
       <e p="ConsoleApp1.fsproj" t="IncludeRecursive" />
       <e p="Program.fs" t="Include" />
